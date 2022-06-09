@@ -15,3 +15,4 @@ O repositório do desafio tem por objetivo apresentar a evolução do aprendizad
 - **Módulo VI - Java **
 - **Módulo VII - Spring Framework**
 - **Módulo VIII - QA**
+
