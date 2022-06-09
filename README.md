@@ -10,9 +10,9 @@ O repositório do desafio tem por objetivo apresentar a evolução do aprendizad
 - **Módulo I - Conteúdo de Abertura**
 - **Módulo II - HTML/CSS**
 - **Módulo III - Javascript**
-- **Módulo IV - ReactJS **
+- **Módulo IV - ReactJS**
 - **Módulo V - SQL**
-- **Módulo VI - Java **
+- **Módulo VI - Java**
 - **Módulo VII - Spring Framework**
 - **Módulo VIII - QA**
 
